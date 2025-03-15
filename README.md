@@ -9,11 +9,11 @@
 
 要下载原版mod，可以去原帖[下载](https://gamebanana.com/mods/537940)  
 
-#Jirai Kei Herta
+# Jirai Kei Herta
 The original author is Hefty Chunk, and I think the outfit he designed looks great. However, personally, I prefer black and white matching, so I changed the color of this outfit to black and white  
-Please use the Star Rail Model Importer (SRMI) tool for installation (download link)（ https://mod.3dmgame.com/mod/213002 )）    
+Please use the Star Rail Model Importer (SRMI) tool for installation [download link](https://mod.3dmgame.com/mod/213002 )   
 Place the decompressed HertaSucharineLash Out folder into the mod folder in the tools directory and run the tool to install the mod  
 Please run the tool with administrator privileges  
 I strongly advise against installing this module on the official server  
 
-To download the original mod, you can go to the original post [download]（ https://gamebanana.com/mods/537940 )  
+To download the original mod, you can go to the original post [download](https://gamebanana.com/mods/537940 )  
