@@ -17,3 +17,7 @@ Please run the tool with administrator privileges
 I strongly advise against installing this module on the official server  
 
 To download the original mod, you can go to the original post [download](https://gamebanana.com/mods/537940 )  
+
+[img1](https://mod.3dmgame.com/static/upload/mod/202412/MOD67682f13bcd3c.png)
+[img2](https://mod.3dmgame.com/static/upload/mod/202412/MOD67682f1087b9a.png)
+
